@@ -230,7 +230,7 @@ body{
 
     .recommended__course{
         flex-basis: 30%;
-        flex-grow: 0;
+        flex-grow: 1;
     }
 
     .home__ad--popup{
@@ -245,7 +245,7 @@ body{
 
     .popular__courses{
         flex-basis: 30%;
-        flex-grow: 0;
+        flex-grow: 1;
     }
 
     .navbar__search{
